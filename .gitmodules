@@ -1,0 +1,3 @@
+[submodule "cards-against-formality-pwa"]
+	path = cards-against-formality-pwa
+	url = https://github.com/JordanPawlett/cards-against-formality-pwa
