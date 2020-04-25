@@ -7,6 +7,9 @@ Cards against formality hopes to encapsulate the popular card game "Cards agains
 
   [https://github.com/JordanPawlett/cards-against-formality-services/#readme](https://github.com/JordanPawlett/cards-against-formality-services/#readme)
 
+Play [here!](https://cardsagainstformality.io/)
+
+
 ## Generals
 
 [Client application](https://github.com/JordanPawlett/cards-against-formality-pwa/#readme) | The Cards against formality frontend is a PWA written in React.
