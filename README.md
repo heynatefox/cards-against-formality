@@ -18,6 +18,6 @@ Play [here!](https://cardsagainstformality.io/)
 
   
 
-## The bording stuff...
+## The boring stuff...
 
 Please find additional Licensing [here](https://htmlpreview.github.io/?https://github.com/JordanPawlett/cards-against-formality-pwa/blob/master/public/license.html) and information about our privacy policy [here](https://htmlpreview.github.io/?https://github.com/JordanPawlett/cards-against-formality-pwa/blob/master/public/privacy_policy.html).
